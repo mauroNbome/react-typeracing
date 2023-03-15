@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+# Typing Race App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Typing Race App, a fun and engaging typing speed test application built using React. This project showcases the latest in frontend web development technologies and demonstrates proficiency in React, state management, hooks, and unit testing.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Engaging countdown before the game starts
+- Timer that tracks the time taken to complete the race
+- Randomly selected sentences to type
+- Real-time input validation
+- Color-coded sentence highlighting for an intuitive typing experience
+- Responsive design that works on desktop and mobile devices
+- Comprehensive unit tests to ensure application stability
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To run the Typing Race App on your local machine, follow these steps:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Clone the repository:
+`
+git clone https://github.com/your-username/typing-race-app.git
+`
 
-### `npm test`
+2. Install dependencies:
+`
+cd typing-race-app
+`
+`
+npm install
+`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Run the development server:
+`
+npm start
+`
 
-### `npm run build`
+4. Open your browser and navigate to `http://localhost:3000` to see the app in action.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Testing
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run the unit tests, execute the following command:
+npm test
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Contributing
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you'd like to contribute to the project, please feel free to create a pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Learn More
+## Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you have any questions or need help, feel free to reach out to me at:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [mauro3196@gmail.com](mailto:mauro3196@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mauro-r%C3%ADos-a01a4215a/)
+- [GitHub](https://github.com/mauroNbome)
+
+Happy typing! 🚀
